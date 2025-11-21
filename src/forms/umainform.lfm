@@ -1,0 +1,8 @@
+object MainForm: TMainForm
+  Left = 248
+  Height = 619
+  Top = 160
+  Width = 1010
+  Caption = 'Si Studio'
+  LCLVersion = '2.0.0.4'
+end
