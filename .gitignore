@@ -1,0 +1,14 @@
+
+src/backup/
+
+src/lib/x86_64-linux/
+
+src/forms/backup/
+
+src/sistudio
+
+src/sistudio.res
+
+*.lps
+
+src/units/backup/
