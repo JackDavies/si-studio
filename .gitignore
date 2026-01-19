@@ -1,14 +1,35 @@
+### System ###
+*.directory
 
-src/backup/
-
-src/lib/x86_64-linux/
-
+### FreePascal ###
 src/forms/backup/
-
 src/sistudio
 
-src/sistudio.res
-
 *.lps
+*.compiled
+*.[oa]
+*.ppu
+*.rst
+*.cgi
+*.exe
+*.log
+*.bak*
+fp.ini
+fp.cfg
+fp.dsk
 
-src/units/backup/
+### Lazarus ###
+*.dll
+*.so
+*.dylib
+*.lrs
+*.res
+*.dbg
+*.o
+*.or
+*.a
+*.rsj
+*.lrt
+backup/
+*.bak
+lib/
